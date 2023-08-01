@@ -5,7 +5,7 @@ using UnityEngine.PlayerLoop;
 
 public class CharacterControler : MonoBehaviour
 {
-    //public Vector3 movement = new Vector3(1,1,0);
+    //public Vector3 movement = new Vector3(1,1,0);//
     public GameObject Bullet;
     public GameObject ShootPoint1;
     public GameObject ShootPoint2;
